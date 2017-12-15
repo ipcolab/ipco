@@ -1,6 +1,7 @@
 IPCO-Lab 
 Northeastern University
-
+http://ipco-lab.ccs.neu.edu:8080/IPCOLAB/userAuth.action
+ 
 IP CO-LAB Summary
 As Intellectual Property (IP) gains increasing significance in the world of commerce, innovators and entrepreneurs – and their legal advisors and investors – must keep pace with understanding IP law and strategies to collaborate effectively, from ideation through development and launch, to preserve rights, pursue social and commercial initiatives and craft business plans and transactions informed by IP assets and strategies.
 The IP CO-LAB, led by students at the School of Law and faculty from the law and business schools, provides a range of crucial IP-​​related legal information and services to inventors and ventures in Northeastern’s entrepreneurial ecosystem. It collaborates with the university’s Center for Research Innovation, student-​​run venture accelerator (IDEA) and the Center for Entrepreneurial Education. Its goal is to enhance the campus innovation environment and provide opportunities for all members of the Northeastern community – with a special focus on law students supporting design, engineering and business students – to better understand and use intellectual property.
